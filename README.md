@@ -1,2 +1,2 @@
 # Resume
-My most recent Resume [Here](https://patrikbacko.github.io/Resume)
+My most view my most recent Resume [Here](https://nbviewer.org/github/PatrikBacko/Resume/blob/main/Patrik_Backo-CV.pdf)
