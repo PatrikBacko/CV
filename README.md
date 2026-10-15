@@ -1,4 +1,14 @@
 # Patrik Backo CV
-You can view my most recent CV [here](https://drive.google.com/file/d/1zmMasR3tJblLVBJqSg6Wz1GEiHU_e1fb/view?usp=sharing).
 
-You can also see a deep learning microcertificate mentioned in the cv [here](https://drive.google.com/file/d/1oMwtTQLzsqrJT3nv5a9HIsg-k1XvwUq4/view?usp=sharing)
+Visit my personal webpage: [backo.dev](https://backo.dev/).
+
+## CV
+
+[View my latest CV (PDF)](https://backo.dev/documents/CV.pdf).
+
+## Microcredentials
+
+Issued by Charles University, Faculty of Mathematics and Physics:
+
+- [Deep Learning — 2025 (PDF)](https://backo.dev/documents/deep_learning_certificate.pdf)
+- [Reinforcement Learning — 2026 (PDF)](https://backo.dev/documents/reinforcement_learning_certificate.pdf)
